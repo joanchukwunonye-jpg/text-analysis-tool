@@ -1,26 +1,37 @@
 from random_username.generate import generate_username
 
-
 # Welcome User
 def welcomeUser():
     print("\nWelcome to the text analysis tool, I will mine and analyze a body of text from a file you give me!")
 
 # Get Username
 def getUsername():
-    # Print message prompting user to input their name
-    usernameFromInput = input("\nTo begin, please enter your username:\n")
 
+    maxAttempts = 3
+    attempts = 0
 
-    if len(usernameFromInput) < 5 or not usernameFromInput.isidentifier():
-        print("Your username must be at least 5 characters long, alphanumeric only (a-z/A-Z/0-9), have no spaces, and cannot start with a number!")
-        print("Assigning username instead...")
-        
+    while attempts < maxAttempts:
 
-        usernameFromInput = generate_username()[0]
-        print("Generated username:", usernameFromInput)
-       
+        # Print message prompting user to input their name
+        inputPrompt = ""
+        if attempts == 0:
+            inputPrompt = "\nTo begin, please enter your username:\n"
+        else:
+            inputPrompt = "\nPlease try again:\n"
+        usernameFromInput = input(inputPrompt)
 
-    return usernameFromInput
+        # Validate username
+        if len(usernameFromInput) < 5 or not usernameFromInput.isidentifier():
+            print("Your username must be at least 5 characters long, alphanumeric only (a-z/A-Z/0-9), have no spaces, and cannot start with a number!")
+        else:    
+            return usernameFromInput
+
+        attempts += 1
+
+    print("\nExhausted all " + str(maxAttempts) + " attempts, assigning username instead...")
+    return generate_username()[0]
+   
+    
 
     
 
