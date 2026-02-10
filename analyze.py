@@ -31,16 +31,20 @@ def getUsername():
     print("\nExhausted all " + str(maxAttempts) + " attempts, assigning username instead...")
     return generate_username()[0]
    
-    
-
-    
-
 # Greet the user
 def greetUser(name):
     print("Hello, " + name)
 
+#Get text from file
+def getArticleText():
+    f = open("files/article.txt", "r")
+    rawText = f.read()
+    f.close()
+    return rawText.replace("\n", " ").replace("\r", "")
+
 welcomeUser()
 username = getUsername()
 greetUser(username)
-
-
+articleTextRaw = getArticleText()
+print("GOT:")
+print(articleTextRaw)

@@ -1,0 +1,233 @@
+On February 5, 2026, Flynn Zito Capital Management disclosed in an SEC filing that it sold 100,000 shares of D-Wave Quantum (NYSE:QBTS).
+
+What happened
+According to a SEC filing dated February 5, 2026, Flynn Zito Capital Management reduced its stake by 100,000 shares in D-Wave Quantum during the fourth quarter of 2025. The estimated value of shares sold, calculated using the average closing price for the quarter, was $2.91 million. The fund’s position value in D-Wave Quantum declined by $2.41 million over the quarter, a figure that includes both trading and price movements.
+
+What else to know
+This was a sell, leaving the D-Wave Quantum position at 0.37% of the fund’s 13F AUM after the transaction.
+
+Top five holdings after the filing:
+
+NYSEMKT: HFXI: $20,609,453 (7.4% of AUM)
+
+NYSEMKT: PRF: $20,383,474 (7.3% of AUM)
+
+NASDAQ: AAPL: $20,002,736 (7.1% of AUM)
+
+NYSEMKT: IWF: $18,790,446 (6.7% of AUM)
+
+NYSEMKT: FLQM: $17,814,776 (6.4% of AUM)
+
+As of February 5, 2026, shares of D-Wave Quantum were priced at $17.21, up 174.9% over the past year with one-year alpha of 162.76 percentage points versus the S&P 500.
+
+
+Company overview
+Metric
+
+Value
+
+Price (as of market close February 5, 2026)
+
+$17.21
+
+Market capitalization
+
+$6.31 billion
+
+Revenue (TTM)
+
+$24,144,000
+
+Net income (TTM)
+
+($398,813,000)
+
+Company snapshot
+Provides quantum computing systems, cloud-based quantum access, professional onboarding services, and open-source software tools.
+
+Generates revenue through hardware sales, cloud subscriptions, and enterprise quantum consulting and deployment services.
+
+Targets manufacturing, logistics, financial services, life sciences, and other sectors seeking advanced computational solutions.
+
+D-Wave Quantum is a technology company specializing in the development and commercialization of quantum computing hardware, software, and cloud-based services. The company leverages its proprietary quantum systems and developer ecosystem to address complex computational challenges across diverse industries. With a focus on enterprise adoption, D-Wave positions itself as a leader in applied quantum computing solutions.
+
+
+What this transaction means for investors
+Flynn Zito appears to have made a successful trade in D-Wave Quantum stock.
+
+The investment management firm purchased its 140,000 shares in the first quarter of 2025. From there, the stock steadily rose until its price spiked in Q4. This makes it likely that it made a return of between 250% and 615% on the shares it sold. Additionally, the fact that it still holds 40,000 shares could indicate it sees further profit potential in this quantum computing stock.
+
+D-Wave Quantum is known as the “practical quantum computing company” and has built a relationship with many companies to apply its technology to their challenges.
+
+Nonetheless, it continues to incur massive losses, which makes holding this stock highly risky over the long term. Also, its price-to-sales (P/S) ratio was just above 200 at the time of this filing, making it difficult to measure from a valuation standpoint.
+
+
+Hence, quantum computing should play a prominent role in the tech industry for some time to come. However, the recent sale seems to point to both the difficulty and the profit potential of investing in companies like D-Wave.
+
+Should you buy stock in D-Wave Quantum right now?
+Before you buy stock in D-Wave Quantum, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and D-Wave Quantum wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $443,299!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,136,601!*
+
+
+Now, it’s worth noting Stock Advisor’s total average return is 914% — a market-crushing outperformance compared to 195% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of February 9, 2026.
+
+Will Healy has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Apple. The Motley Fool has a disclosure policy.
+
+Flynn Zito Dumps 100,000 D-Wave Quantum Shares Worth $2.9 Million was originally published by The Motley Fool
+
+Terms and Privacy Policy
+Privacy Dashboard
+
+(Bloomberg) -- The relentless surge in memory chip prices over the past few months has driven a vast divide between winners and losers in the stock market, and investors don’t see any end in sight.
+
+Companies from game console maker Nintendo Co. to big PC brands and Apple Inc. suppliers are seeing shares slump on profitability concerns. Memory producers, meanwhile, are soaring to unprecedented heights. Money managers and analysts are now assessing which firms can best navigate the squeeze by locking in supplies, raising product prices or redesigning to use less memory.
+
+
+Most Read from Bloomberg
+
+NJ Transit Service Between Trenton and New York City Resumes
+
+Canadian Province New Brunswick to Quit Using Elon Musk’s X
+
+For These Old Bus Stations, It’s Not the End of the Line
+
+A Bloomberg gauge of global consumer electronics makers is down 10% since the end of September while a basket of memory makers including Samsung Electronics Co. has surged roughly 160%. The question now is how much is priced in.
+
+“What remains underappreciated is the risk around duration — current valuations largely factor in that the disruption will normalize within one to two quarters,” said Vivian Pai, a fund manager at Fidelity International. “We believe industry tightness is likely to persist,” possibly through the rest of the year, she added.
+
+ 
+Memory chip shortages and pricing are being mentioned frequently by companies in earnings reports and conference calls. In one of the latest examples, Honda Motor Co. noted Tuesday that supply risks are emerging for memory components.
+
+Investors are hearing the alarm bells. Shares of Qualcomm Inc. fell more than 8% last Thursday after the smartphone processor maker signaled memory constraints will limit phone production. Nintendo slid the most in 18 months in Tokyo the day after it warned of margin pressure from the shortages.
+
+
+Swiss peripherals maker Logitech International SA has seen its stock slide around 30% from a November peak as higher chip prices damp the outlook for PC demand. Shares of Chinese electric vehicle and smartphone makers from BYD Co. to Xiaomi Corp. have also been sluggish on worry related to the chip shortages.
+
+“Memory prices have really moved from a background conversation to headlines this earnings season,” said Charu Chanana, chief investment strategist at Saxo. “The market broadly understands that memory prices are up and supply is tight — that’s no longer new information, so I would assume that’s priced in. But it does look like the timeline of this supply tightness is now starting to be questioned.”
+
+Memory ‘Supercycle’
+
+Concerns over demand and earnings are weighing on the corporate landscape, compounded by worries that massive AI infrastructure spending by US hyperscalers will further exacerbate memory-chip shortages. The massive build‑out of AI infrastructure led by the likes of Amazon.com Inc. has shifted production capacity toward high-bandwidth memory and away from traditional DRAM.
+
+This has led to what some are describing as a “supercycle,” breaking the usual boom-to-bust patterns of memory supply and demand.
+
+ 
+Spot prices for DRAM have shot up more than 600% in the past few months, even as demand for end-products like smartphones and cars remains weak. On top of that, AI is creating new demand for NAND chips and other storage products, driving up costs in those segments as well.
+
+As such, memory chip makers have been the standout winners among tech stocks. Shares of SK Hynix Inc., a key supplier of HBM to Nvidia Corp., are up more than 150% just since the end of September in Seoul. Among makers of more pedestrian chips, Japan’s Kioxia Holdings Corp. and Taiwan’s Nanya Technology Corp. are up over 270% each in that span, while Sandisk Corp. has climbed more than 400% in New York.
+
+
+“Historically the memory cycle normally lasted 3-4 years,” said Jian Shi Cortesi, a fund manager at GAM Investment Management in Zurich, adding that she has been holding memory chip shares for a long time. “The current cycle already exceeded the previous cycles both in length and magnitude, and we are not seeing demand momentum softening.”
+
+ 
+Top Tech Stories
+
+Alphabet Inc. is borrowing far and wide to finance the unprecedented spending plan behind its artificial intelligence ambitions, and investors can’t seem to get enough.
+
+Criminals in Southeast Asia are harnessing inexpensive AI tools to target bigger pools of potential victims at high speed, keeping scam centers humming even as governments try and crack down, senior officials at Interpol say.
+
+Australia’s digital regulator said it’s testing Roblox Corp.’s compliance with its own commitments to keep kids safe as concerns grow about potential child grooming and sexual exploitation on the platform.
+
+--With assistance from Henry Ren, Vlad Savov and Neil Campling.
+
+(Updates price-related data. Adds detail on Honda in fifth paragraph.)
+
+Apple, Inc.'s (AAPL) revenue, free cash flow, and FCF margins surged in its latest quarter. This has pushed AAPL target prices higher. Two plays are attractive: short one-month out-of-the-money puts and buy longer-dated in-the-money calls.
+
+AAPL is down to $271.83 in midday trading on Monday, Feb. 9. However, that is up from a recent trough of $246.70 on Jan. 20. That was before its Jan. 29 release of fiscal Q1 results ending Dec. 27, 2025.
+
+
+More News from Barchart
+Why Alphabet's Free Cash Flow Could Survive, Despite the Market's Fears - How to Play GOOGL
+
+Option Volatility And Earnings Report For February 9 - 13
+
+Options Activity Shows Avis Budget (CAR) Could Be Cooking Up a Positive Earnings Surprise
+
+Stop Missing Market Moves: Get the FREE Barchart Brief – your midday dose of stock movers, trending sectors, and actionable trade ideas, delivered right to your inbox. Sign Up Now!
+
+AAPL stock - last 3 months - Barchart - Feb. 9, 2026
+AAPL stock - last 3 months - Barchart - Feb. 9, 2026
+Since then, AAPL skyrocketed back to $278.12 on Friday, Feb. 6. However, it could be worth considerably more, based on its strong FCF results.
+
+Strong FCF and FCF Margins
+Apple's revenue surged 15.65% YoY to $143.8 billion, up 40% from the prior quarter. As a result, given that its capex was 19% lower YoY, its free cash flow (FCF) skyrocketed 91% to $51.55 billion in Q1.
+
+The main reason was a huge increase in iPhone sales based on “unprecedented demand” and the resulting cash flow. The WSJ reported that the “blowout” sales were due to customers excited about Apple's new iPhone 17 lineup, upgrading their devices earlier than usual.
+
+As a result, its free cash flow (FCF) margins also rose. For the quarter, FCF represented 35.86% of sales, up from 21.72% last year in Q1, according to Stock Analysis.
+
+
+Moreover, on a trailing 12-month (TTM) basis, its FCF margin rose from 24.8% last year to 28.3% of 2025 sales. For example, FCF hit $123.324 billion, which was 28.3% of $435.6 billion in revenue during 2025.
+
+As a result, target prices (TPs) for AAPL stock have been rising.
+
+Higher AAPL TPs
+In my Dec. 1, 2025, Barchart article, I used a 25% FCF margin against analysts' revenue estimates, along with a 2.393% FCF yield (i.e., a 41.8x FCF multiple), to value AAPL stock.
+
+That resulted in a target price of $325 per share.
+
+But, since then, analysts have raised their revenue forecasts, and Apple's FCF margin has risen to 28.3%. That means the market will likely raise the forward FCF multiple to at least 43x.
+
+Here is how that works out.
+
+First, revenue projections this fiscal year are $464.49 billion (for the year ending Sept. 30, 2026), and $493.77 billion for the following year. So, the next 12 months (NTM), using 3/4ths of the 2026 FY forecast and ¼ of the 2027 FY forecast revenue will average $471.81 billion.
+
+That means that FCF over the NTM period could be:
+
+ $471.81 b x 0.283 = $133.5 billion NTM FCF
+
+That is 8.3% higher than the $123.3 billion in FCF Apple made in 2025.
+
+Just to be conservative, using a 40x multiple (i.e., a higher 2.5% FCF yield metric), Apple's market value could rise to $5.34 trillion:
+
+
+$133.5 billion x 40 = $5,340 billion
+
+That is 33.5% higher than today's $4 trillion market cap.
+
+In other words, AAPL stock could be worth 33.5% more, or $362.89 per share, higher than my prior $325 TP:
+
+1.335 x $271.83 = $362.89 target price (TP)
+
+Analysts have also raised their TPs. Yahoo! Finance reports that the average of 47 analysts' TPs is $292.70, and Barchart's mean survey TP is $292.81. AnaChart.com, which tracks recent analyst write-ups, reports that 26 analysts have an average TP is $292.80.
+
+Given these higher TPs, what are some of the best plays here? Should an investor just buy AAPL and hold it?
+
+Higher Expected Returns Using OTM Puts and ITM Calls
+I discussed shorting one-month puts at strike prices which are below the trading price (i.e., out-of-the-money or OTM) in my Dec. 30, 2025, Barchart article ("Apple is an Analyst Favorite, But AAPL Stock Has Been Flat - Shorting Puts Is the Best Play").
+
+I suggest shorting the $260 strike price put option expiring Jan. 30, 2026, when AAPL was at $273.11. The premium received was $2.70, so the net breakeven cost to buy 100 shares was $257.30.
+
+AAPL closed at $259.48 on Jan. 30, so the collateral was assigned, and an investor would now have 100 shares with an all-in cost of just $257.30.
+
+
+This one-month short-put play can be repeated for a similar return. For example, the March 13, 2026, expiry period shows that the $260.00 strike price put has a midpoint premium of $3.30.
+
+That provides a one-month yield of 1.269% (i.e., $330/$26,000 invested). Note that the strike price is still over 4% lower than today's price, so it is out-of-the-money (OTM). That provides some downside protection against AAPL falling further before the short-put play can be assigned to buy AAPL shares.
+
+AAPL puts expiring March 13 - Barchart - As of Feb 9, 2026
+AAPL puts expiring March 13 - Barchart - As of Feb 9, 2026
+I also suggested buying call options at the $260 strike price (i.e., in-the-money) for the July 17, 2026, expiry period using the short-put income. At the time, the cost was $30.08, but it has now fallen to $27.07.
+
+Using the one-month put income to help pay for this has lowered the all-in cost. That play is another way to invest in AAPL stock on a leveraged basis. In the last 2 months, the investor would have made $6.00, or $3.00 on average.
+
+
+For example, let's say AAPL rises to $300 by July. That would mean the $260.00 calls would be worth $40.00. But after collecting $3.00 on average for 7 months, the all-in cost would be just $30.08 - $21, or $9.08.
+
+So, the expected return would be $40.00/9.08 -1, or +340%. In fact, even if AAPL stays flat at $272.21, the intrinsic value of the $260 call would be $12.21 (i.e., $272.21- $260.00), and the net expected return:
+
+ $12.21/$9.08 -1 = +34.47%
+
+That is slightly better than the expected return of holding AAPL shares (assuming it rises to $362) in my TP above.
+
+The bottom line is that shorting puts and buying ITM calls is a better play than just owning AAPL shares, given the company's strong FCF margins and its higher target prices.
+
+On the date of publication, Mark R. Hake, CFA did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com
