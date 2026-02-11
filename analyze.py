@@ -1,9 +1,13 @@
 import nltk
 nltk.data.path.append('/home/joan/nltk_data')
 
+import re
 from random_username.generate import generate_username
 from nltk.tokenize import word_tokenize, sent_tokenize
-import re
+from nltk.stem import WordNetLemmatizer
+# nltk.download('wordnet')
+wordLemmatizer = WordNetLemmatizer()
+
 
 # Welcome User
 def welcomeUser():
@@ -58,7 +62,7 @@ def tokenizeWords(sentences):
         words.extend(word_tokenize(sentence))
     return words
 
-    # Get the key sentences based on search pattern of key words
+# Get the key sentences based on search pattern of key words
 def extractKeySentences(sentences, searchPattern):
 	matchedSentences = []
 	for sentence in sentences:
@@ -67,21 +71,21 @@ def extractKeySentences(sentences, searchPattern):
 			matchedSentences.append(sentence)
 	return matchedSentences
 
-    # Get the average words per sentence, excluding punctuation
+# Get the average words per sentence, excluding punctuation
 def getWordsPerSentence(sentences):
 	totalWords = 0
 	for sentence in sentences:
 		totalWords += len(sentence.split(" "))
 	return totalWords / len(sentences)
 
-    # Filter raw tokenized words list to only include valid english words
+# Filter raw tokenized words list to only include valid english words
 def cleanseWordList(words):
     cleansedWords = []
     invalidWordPattern = "[^a-zA-Z-+]"
     for word in words:
         cleansedWord = word.replace(".", "").lower()
-        if (not re.search(invalidWordPattern, cleansedWord)) and len(word) > 1:
-            cleansedWords.append(cleansedWord)
+        if (not re.search(invalidWordPattern, cleansedWord)) and len(cleansedWord) > 1:
+            cleansedWords.append(wordLemmatizer.lemmatize(cleansedWord))
     return cleansedWords
 
 
